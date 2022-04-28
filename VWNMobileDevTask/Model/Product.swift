@@ -10,4 +10,5 @@ import Foundation
 struct Product{
     let name : String?
     let image : String?
+    let price: String?
 }

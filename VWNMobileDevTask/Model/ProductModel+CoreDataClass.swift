@@ -11,5 +11,4 @@ import CoreData
 
 @objc(ProductModel)
 public class ProductModel: NSManagedObject {
-
 }
